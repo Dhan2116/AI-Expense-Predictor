@@ -1,6 +1,7 @@
 pandas
 numpy
 scikit-learn
-tensorflow
-joblib
+lightgbm
 matplotlib
+seaborn
+joblib
